@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48" height="48"/>
-  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="48"/>
 </p>
 
 ## 🔄 CI/CD & Automation
