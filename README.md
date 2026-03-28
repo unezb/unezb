@@ -6,15 +6,15 @@
 
 <p> I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms. My focus is on scalability, reliability, security, and automation across the delivery lifecycle. </p>
 
-🚀 What I Do
-
+## 🚀 What I Do
+<p>
   <li> Design and operate Kubernetes platforms (EKS, RKE2) for multi-environment workloads </li>
   <li> Build reusable Terraform modules for AWS </li>
   <li> Implement GitOps-based deployments using ArgoCD and Helm </li>
   <li> Automate CI/CD pipelines for applications and infrastructure </li>
   <li> Design centralized observability using Prometheus, Grafana, and ELK </li>
-  <li> Integrate DevSecOps practices into delivery workflows </li>
-
+  <!--<li> Integrate DevSecOps practices into delivery workflows </li>-->
+</p>
 
 <!--
 **unezb/unezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,8 +65,9 @@ Here are some ideas to get you started:
 </p>
 
 ## 💻 Scripting & OS
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=bash" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=powershell" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=powershell" />
+</p>
