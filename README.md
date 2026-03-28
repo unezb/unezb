@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 
 ## 🐳 Containers & Orchestration
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,argocd" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=helm" />
+  <img src="https://skillicons.dev/icons?i=argo" />
 </p>
 
 ## 🔄 CI/CD & Automation
