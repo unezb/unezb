@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 ## DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 
